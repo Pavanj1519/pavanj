@@ -1,1 +1,7 @@
+git init
+git add .
+git commit -m "Initial commit for assignment"
+git branch -M main
+git remote add origin <https://github.com/Pavanj1519/pavanj.git>
+git push -u origin main
 
